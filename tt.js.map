@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "file": "tt.js",
+  "sourceRoot": "",
+  "sources": [
+    "tt.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;EAAA,MAAM,CAAC,OAAP,GAAiB,QAAA,CAAA,CAAA;AACf,QAAA;IAAA,EAAA,GAAK,CAAC,CAAD,EAAG,CAAH,EAAK,CAAL,EAAO,CAAP;IAEL,EAAE,CAAC,GAAH,CAAA;IAEA,EAAE,CAAC,GAAH,CAAA;IAEA,EAAE,CAAC,GAAH,CAAA;WAEA,OAAO,CAAC,GAAR,CAAY,EAAZ;EATe;AAAjB",
+  "sourcesContent": [
+    "module.exports = () ->\n  aa = [1,2,3,4]\n\n  aa.pop()\n\n  aa.pop()\n\n  aa.pop()\n\n  console.log(aa)\n"
+  ]
+}

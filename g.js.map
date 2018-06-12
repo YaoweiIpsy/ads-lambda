@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "file": "g.js",
+  "sourceRoot": "",
+  "sources": [
+    "g.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;;AAAA",
+  "sourcesContent": [
+    ""
+  ]
+}

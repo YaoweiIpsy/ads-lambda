@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/g.js" />
+        <item url="file://$PROJECT_DIR$/pinterest/index.js" />
+        <item url="file://$PROJECT_DIR$/tt.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/g.js" />
+      <root url="file://$PROJECT_DIR$/pinterest/index.js" />
+      <root url="file://$PROJECT_DIR$/tt.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
